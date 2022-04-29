@@ -1,0 +1,12 @@
+spring:
+  output:
+    ansi:
+      enabled: always
+
+config:
+  prb1: Esto es una prueba
+  prb2: 8081
+
+vars:
+  var1: Hola Mundo
+  var2: 1080
